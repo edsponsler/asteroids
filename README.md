@@ -2,15 +2,14 @@
 
 A classic Asteroids game clone built with Python and Pygame.
 
-## Current Progress
+## Features
 
-The project is currently under active development. The core mechanics such as player movement, shooting, and asteroid spawning have been successfully implemented. 
-
-**Still to be implemented:**
-- Asteroid destruction upon collision with bullets
-- Asteroids splitting into smaller pieces when destroyed
-- Game over conditions
-- Score tracking
+The project is fully complete with the following features implemented:
+- Player movement and rotation
+- Shooting mechanics with cooldowns
+- Asteroid spawning at random edges with random velocities
+- Asteroid destruction and splitting into smaller pieces upon collision with bullets
+- Game over conditions when an asteroid collides with the player
 
 ## Requirements
 
